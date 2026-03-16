@@ -1,2 +1,2 @@
-# fullstackopen-phonebook
-fullStackOpen course - part 3 - internet deploy
+# fullstackopen-phonebook-frontend
+fullStackOpen course - part 3 - internet deploy - frontend
